@@ -1,0 +1,52 @@
+command_id: 6F1.640.221700|e=40,fc=1
+test_cases:
+- expected_values:
+    X5M_ODO_2: 156713
+  response: |-
+    640F110076217000002
+    640F1216429FFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156719
+  response: |-
+    640F110076217000002
+    640F121642FFFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156726
+  response: |-
+    640F110076217000002
+    640F1216436FFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156735
+  response: |-
+    640F110076217000002
+    640F121643FFFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156738
+  response: |-
+    640F110076217000002
+    640F1216442FFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156751
+  response: |-
+    640F110076217000002
+    640F121644FFFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156774
+  response: |-
+    640F110076217000002
+    640F1216466FFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156779
+  response: |-
+    640F110076217000002
+    640F121646BFFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156872
+  response: |-
+    640F110076217000002
+    640F12164C8FFFFFFFF
+- expected_values:
+    X5M_ODO_2: 156919
+  response: |-
+    640F110076217000002
+    640F12164F7FFFFFFFF
