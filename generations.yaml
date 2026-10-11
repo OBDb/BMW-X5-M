@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_X5_M"
+
+generations:
+  - name: "E70"
+    start_year: 2010
+    end_year: 2013
+    description: "With the 4.4 L S63 twin-turbo V8."
+  - name: "F85"
+    start_year: 2015
+    end_year: 2018
+    description: "With the S63 V8 and an eight-speed automatic."
+  - name: "F95"
+    start_year: 2020
+    end_year: null
+    description: "With the S63 V8, from 2024 as a mild hybrid."

@@ -1,0 +1,11 @@
+command_id: 6F1.660.22D107|e=60,fc=1
+test_cases:
+- expected_values:
+    X5M_VSS: 0
+  response: 660F10562D1070000
+- expected_values:
+    X5M_VSS: 22.9
+  response: 660F10562D10700E5
+- expected_values:
+    X5M_VSS: 103.9
+  response: 660F10562D107040F
